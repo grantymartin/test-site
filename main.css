@@ -1,0 +1,40 @@
+html,
+body {
+    font-family: 'Playfair Display', serif;
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.bullet-points {
+    list-style: none;
+}
+
+/* containers */
+
+.header-container {
+    height: 100vh;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+    display: flex;
+    align-items: center;
+    
+    background: url(https://www.noupe.com/wp-content/uploads/2009/10/the-inspiration-gallery.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
+.feedback-container {}
+
+.list-container {}
